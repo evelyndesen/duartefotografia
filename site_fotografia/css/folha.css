@@ -1,0 +1,33 @@
+.d-flex {
+    background: black;
+
+}
+ 
+ a.nav-link{
+   color: white;
+   text-align: right;
+
+}
+ .nav-item{
+
+    background-color: black;
+    margin:10px;
+}
+
+ a{
+
+    text-align: right;
+ }
+
+ .navbar-toggler-icon{
+
+    color: white;
+}
+
+.nav-pills{
+/*  subclasse da class "nav"  */
+
+
+
+
+ }
